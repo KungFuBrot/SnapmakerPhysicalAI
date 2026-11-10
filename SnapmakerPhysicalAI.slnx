@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Snapmaker.Cli/Snapmaker.Cli.csproj" />
+    <Project Path="src/Snapmaker.Core/Snapmaker.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Snapmaker.Tests/Snapmaker.Tests.csproj" />
+  </Folder>
+</Solution>
